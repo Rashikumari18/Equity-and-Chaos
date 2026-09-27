@@ -86,7 +86,7 @@ Equity-and-Chaos/
     ├── event.wav
     ├── success.wav
     └── victory.wav
-
+```
 # How To Run
 Make sure Python is installed on your system.
 Open the project folder in VS Code and run:
