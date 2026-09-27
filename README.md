@@ -54,8 +54,6 @@ Your decisions can increase or decrease these stats.
 # Features
 
 - Interactive startup simulation
-- Interactive startup simulation
-- Interactive startup simulation
 - Multiple startup/business types
 - Event-based gameplay
 - Decision-based outcomes
