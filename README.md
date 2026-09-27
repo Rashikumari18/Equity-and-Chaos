@@ -50,30 +50,31 @@ Your decisions can increase or decrease these stats.
 
 # Features
 
- Interactive startup simulation
- Multiple startup/business types
- Event-based gameplay
- Decision-based outcomes
- Dynamic company statistics
- Achievement system
- Save and load game progress
- Sound effects
- Graphical User Interface
- Final score and different possible outcomes
+- Interactive startup simulation
+- Interactive startup simulation
+- Interactive startup simulation
+- Multiple startup/business types
+- Event-based gameplay
+- Decision-based outcomes
+- Dynamic company statistics
+- Achievement system
+- Save and load game progress
+- Sound effects
+- Graphical User Interface
+ -Final score and different possible outcomes
 
 
 
 # Technologies Used
 
- Python
- Tkinter — used to create the graphical user interface (GUI)
- JSON — used for saving and loading game progress
- WAV Audio — used for game sound effects
+ -Python
+ -Tkinter — used to create the graphical user interface (GUI)
+ -JSON — used for saving and loading game progress
+ -WAV Audio — used for game sound effects
 
----
 
 # Project Structure
-
+```text
 Equity-and-Chaos/
 │
 ├── main.py
@@ -126,7 +127,7 @@ It was also built as a hands-on way to improve my understanding of Python and so
 # Project By
 
 Rashi Kumari
-B.Tech — Computer Science and Business Systems
+-B.Tech — Computer Science and Business Systems
 
 
 
