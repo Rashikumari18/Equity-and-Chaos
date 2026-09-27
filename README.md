@@ -65,12 +65,15 @@ Your decisions can increase or decrease these stats.
 
 
 
-# Technologies Used
+## Technologies Used
 
- -Python
- -Tkinter — used to create the graphical user interface (GUI)
- -JSON — used for saving and loading game progress
- -WAV Audio — used for game sound effects
+- **Python** — Core programming language used to build the game
+- 
+- **Tkinter** — Used to create the graphical user interface
+- 
+- **JSON** — Used for saving and loading game progress
+- 
+- **WAV Audio** — Used for sound effects
 
 
 # Project Structure
@@ -122,11 +125,13 @@ The game window will open and you can start your startup journey!
 
 # Project Goal: 
 The goal of this project was to combine Python programming, GUI development and decision-based gameplay into an interactive project.
+
 It was also built as a hands-on way to improve my understanding of Python and software development.
 
 # Project By
 
 Rashi Kumari
+
 -B.Tech — Computer Science and Business Systems
 
 
